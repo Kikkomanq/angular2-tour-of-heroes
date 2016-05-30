@@ -36,8 +36,7 @@ cd my-proj
 We have no intention of updating the source on `angular/quickstart`.
 Discard everything "git-like" by deleting the `.git` folder.
 ```bash
-rm -rf .git  // non-Windows
-rd .git /S/Q // windows
+rm -rf .git
 ```
 
 ### Create a new git repo
