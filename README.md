@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular 2 QuickStart Source
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
@@ -151,3 +152,7 @@ A custom reporter (see `protractor.config.js`) generates a  `./protractor-result
 which is easier to read; this file is excluded from source control.
 
 Shut it down manually with Ctrl-C.
+=======
+# angular2-tour-of-heroes
+Simple angular2 app
+>>>>>>> 7fbe9ce3cb7be3dc1ec8d8b96b670daaaf6b736a
