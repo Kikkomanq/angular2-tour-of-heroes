@@ -28,8 +28,7 @@ import {Component} from '@angular/core';
         <input [(ngModel)]="selectedHero.name" placeholder="name"/>
       </div>
     </div>
-
-      `
+`,
           
 
 
